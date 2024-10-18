@@ -1,0 +1,22 @@
+{
+  "name": "kenmistry",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenmistry/kenmistry.github.io.git"
+  },
+  "keywords": [],
+  "author": "kenmistry",
+  "license": "UNLICENSED",
+  "homepage": "",
+  "dependencies": {
+    "xml-formatter": "^3.6.3",
+    "xslt-processor": "^3.0.1"
+  },
+  "devDependencies": {}
+}
